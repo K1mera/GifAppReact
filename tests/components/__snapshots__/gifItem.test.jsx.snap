@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`gifItem test should match the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Menudo title"
+      src="https://melasuda/todo.jpg"
+    />
+    <p>
+      Menudo title
+    </p>
+  </div>
+</div>
+`;
